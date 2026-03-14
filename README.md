@@ -1,17 +1,3 @@
-<div align="center">
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=58aeff&vCenter=true&width=600&height=70&lines=Hi+👋+,+I'm+Abdelkarim+AIT NASSER;a+Full+Stack+Developer;)](https://git.io/typing-svg) 
- 
-</div>  
-
-[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Abdelkarim-AIT NASSER-462036215/)
-[![Facebook Follow](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100074328135721)
-[![Twitter Follow](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AIT NASSERAbdelkarim)
-[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Abdelkarim_fiiifel/?hl=fr)
-[![hackerRank Follow](https://img.shields.io/badge/HackerRank-green?style=for-the-badge&amp;logo=hackerrank)](https://www.hackerrank.com/Abdelkarim_AIT NASSER5)
-[![CodingGame Follow](https://img.shields.io/badge/Codingame-purple?style=for-the-badge&amp;logo=codingame)](https://www.codingame.com/profile/1a83e96b5184d9431839f0a9a029d2bf8612515)
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 
