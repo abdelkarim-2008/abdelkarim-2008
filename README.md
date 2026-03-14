@@ -11,15 +11,7 @@
 [![hackerRank Follow](https://img.shields.io/badge/HackerRank-green?style=for-the-badge&amp;logo=hackerrank)](https://www.hackerrank.com/Abdelkarim_AIT NASSER5)
 [![CodingGame Follow](https://img.shields.io/badge/Codingame-purple?style=for-the-badge&amp;logo=codingame)](https://www.codingame.com/profile/1a83e96b5184d9431839f0a9a029d2bf8612515)
 
-<img src="https://github.com/Abdelkarim5-bot/Abdelkarim5-bot/blob/main/Abdelkarim.png" /> 
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Abdelkarim5-bot&label=Profile%20views&color=0e75b6&style=flat" alt="Abdelkarim5-bot" /> 
-</p>
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abdelkarim5-bot" alt="Abdelkarim5-bot" /></a> 
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -73,10 +65,10 @@
 <br/><br/>
 
 <p align="center"> 
-  &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdelkarim5-bot&show_icons=true&locale=en&layout=compact" alt="Abdelkarim5-bot">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelkarim5-bot&" alt="Abdelkarim5-bot">
+  &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelkarim-2008&show_icons=true&locale=en&layout=compact" alt="abdelkarim-2008">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelkarim-2008&" alt="abdelkarim-2008">
 </p>  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelkarim5-bot&show_icons=true&locale=en" alt="Abdelkarim5-bot" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelkarim-2008&show_icons=true&locale=en" alt="abdelkarim-2008" />
 </div>
